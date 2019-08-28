@@ -2,7 +2,7 @@ body {
     font-size: 20px;
     font-family: serif;
     color: #404040;
-    background: url("/gif/bgg.jpg");
+    background:url(/gif/bgg.jpg);
     background-position: bottom right;
     background-size: cover;
     word-spacing: 3px;

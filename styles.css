@@ -94,12 +94,14 @@ li{
     margin-right: 150px;
 }
 .img_2{
-    float: initial  ;
-    width: 50%;
-    height: 50%;
+    float: center ;
+    clear: both;
+    width: 20%;
+    height: 20%;
 }
 .img_3{
-    float: initial;
-    width: 45%;
-    height: 45%;
+    float: left;
+    clear: both;
+    width: 30%;
+    height: 30%;
 }

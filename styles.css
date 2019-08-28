@@ -36,7 +36,7 @@ blockquote {
     margin-right: auto;
     text-align: center;
     font-size: 160%;
-    background-color: rgba(209, 205, 205, 0.973);
+    background-color: rgba(248, 248, 248, 0.589);
     border-left:solid 3px;
     padding: 0px 30px 0px 30px;
     margin-top: 80px;
@@ -46,11 +46,11 @@ blockquote {
 }
 
 .good{
-    background-color:green;
+    background-color:rgb(6, 245, 6);
 }
 
 .bad {
-    background: red;
+    background: rgb(252, 62, 62);
 }
 
 .farmer{

@@ -50,7 +50,7 @@ blockquote {
 }
 
 .bad {
-    background: rgb(255, 3, 3);
+    background: rgba(175, 0, 0, 0.945);
 }
 
 .farmer{

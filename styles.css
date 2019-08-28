@@ -2,10 +2,9 @@ body {
     font-size: 20px;
     font-family: serif;
     color: #404040;
-    /*line-height: ;
-    background: url("/gif/rouge.jpg");
-    background-repeat: no-repeat;*/
-    background-color: beige;
+    background: url("/gif/bgg.jpg");
+    background-position: bottom right;
+    background-size: cover;
     word-spacing: 3px;
     width: 90%;
     margin: 100px 100px 100px 100px;
@@ -20,15 +19,12 @@ a:visited {
 }
 
 header {
+    font-style: bold;
 
 }
 
 h1 {
-
-}
-
-h2 {
-
+    background-color: yellow;
 }
 
 blockquote {
@@ -37,7 +33,7 @@ blockquote {
     margin-right: auto;
     text-align: center;
     font-size: 160%;
-    background-color: beige;
+    background-color: rgba(209, 205, 205, 0.973);
     border-left:solid 3px;
     padding: 0px 30px 0px 30px;
     margin-top: 80px;
@@ -46,14 +42,51 @@ blockquote {
     clear: center ;
 }
 
-span {
-
-}
-
 .good{
     background-color:green;
 }
 
 .bad {
     background: red;
+}
+
+.farmer{
+    border-color: gold;
+}
+
+.villager{
+    border-color: darkgreen;
+}
+
+.table_grey{
+    background-color: grey;
+}
+
+.table_white{
+    background-color: white;
+}
+
+.item_1{
+    background-image: url("gif/bien.png");
+}
+
+.item_2{
+    background-image: url("gif/mal.png");
+}
+
+.item_3{
+    background-image: url("gif/chat.png");
+}
+
+li{
+    background: no-repeat;
+    background-position: 400px ;
+    padding: 30px;
+}
+
+.img_1{
+    float: left;
+    width: 300px;
+    height: 320px;
+    margin-right: 150px;
 }

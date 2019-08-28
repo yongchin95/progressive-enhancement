@@ -50,7 +50,7 @@ blockquote {
 }
 
 .bad {
-    background: rgb(252, 62, 62);
+    background: rgb(255, 3, 3);
 }
 
 .farmer{
@@ -62,7 +62,7 @@ blockquote {
 }
 
 .table_grey{
-    background-color: grey;
+    background-color: rgb(207, 206, 206);
 }
 
 .table_white{

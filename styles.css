@@ -2,7 +2,7 @@ body {
     font-size: 20px;
     font-family: serif;
     color: #404040;
-    background:url(/gif/bgg.jpg);
+    background:url("/gif/bgg.jpg");
     background-position: bottom right;
     background-size: cover;
     word-spacing: 3px;
@@ -86,7 +86,7 @@ li{
 
 .img_1{
     float: left;
-    width: 300px;
-    height: 320px;
+    width: 40%;
+    height: 40%;
     margin-right: 150px;
 }
